@@ -1,0 +1,9 @@
+baseURL = 'https://www.conholdate.com/'
+languageCode = 'en-us'
+title = 'Policies - Conholdate'
+theme = "policies"
+
+[module]
+[[module.mounts]]
+ source = "assets/images"
+ target = "assets/images"
