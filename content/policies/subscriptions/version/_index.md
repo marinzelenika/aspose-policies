@@ -1,15 +1,15 @@
 ---
 head_name: "Versions"
-page_title: "Versions - Purchase - conholdate.com"
+page_title: "Versions - Purchase - aspose.com"
 description: "How to tell what version of a product you have."
 base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}} 
-Conholdate uses version numbers to keep track of product releases. The version number relates to the month and year the release was made.  
+Aspose uses version numbers to keep track of product releases. The version number relates to the month and year the release was made.  
 &nbsp;  
 ##### **What is a new release?**
-A new release is a full installation of a Conholdate product with new features and bug fixes. There are two types of binaries provided with each release:
+A new release is a full installation of a Aspose product with new features and bug fixes. There are two types of binaries provided with each release:
 
 * An installer (.msi) for Windows systems which includes all necessary files: including the product library file (.dll), links to documentation, EULA and example code.
 * An archive (.zip) of just the product library file (.dll) and link to the EULA.  
@@ -21,7 +21,7 @@ _For example, version 18.2 means the release of the product was made in February
 
 &nbsp;  
 ##### **What is a hot fix?**
-A hot fix is a minor release that fixes one or more specific issues reported by customers on the support forums or introduces a specific new features. Hot fixes are released as a ZIP file which only includes the product's library file (for example, Conholdate.Cells.dll).
+A hot fix is a minor release that fixes one or more specific issues reported by customers on the support forums or introduces a specific new features. Hot fixes are released as a ZIP file which only includes the product's library file (for example, Aspose.Cells.dll).
 
 A hot fix has many names, some companies refer to them as bug fixes or point releases.  
 
@@ -34,6 +34,6 @@ For example, version 18.2.1 means first hot fix for the month of February 2018 a
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

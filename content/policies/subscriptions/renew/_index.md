@@ -1,6 +1,6 @@
 ---
 head_name: "Renew a Subscription"
-page_title: "Renew a Subscription - Purchase - conholdate.com"
+page_title: "Renew a Subscription - Purchase - aspose.com"
 description: "Information about how and when to renew a subscription."
 base_url: ""
 ---
@@ -16,7 +16,7 @@ You can renew your subscription either when we send you a reminder, or at any ot
 
 &nbsp;  
 ##### **Subscription renewal costs**
-Renewing an existing subscription is cheaper than renewing an expired subscription. While your subscription is still running, adding a year to the subscription costs 50% of the current retail price of the product. To re-activate an expired subscription costs 60% of the current retail price. If you need help with working out the price for a renewal, [our sales team is pleased to assist you](https://about.conholdate.com/contact/).
+Renewing an existing subscription is cheaper than renewing an expired subscription. While your subscription is still running, adding a year to the subscription costs 50% of the current retail price of the product. To re-activate an expired subscription costs 60% of the current retail price. If you need help with working out the price for a renewal, [our sales team is pleased to assist you](https://about.aspose.com/contact/).
 
 Have your order ID or email address handy to help the sales team find your account quickly.  
 
@@ -26,12 +26,12 @@ Have your order ID or email address handy to help the sales team find your accou
 * If you have a problem or if you are not the original buyer, contact our sales department and they will help you.  
 &nbsp;  
 ##### **Add additional products, licenses or subscription years while renewing**
-You can choose to add an extra license, product or extra subscription years to your order when you renew your subscription. The retail price of what you are adding on is simply added onto the renewal cost. There is no discount for adding multiple products or years however there is a discount for adding extra developer licenses. To add additional items to your subscription is counted as a renewal and then an upgrade. You can do both at the same time by using the [Upgrade an Order](https://purchase.conholdate.com/upgrade) interface.  
+You can choose to add an extra license, product or extra subscription years to your order when you renew your subscription. The retail price of what you are adding on is simply added onto the renewal cost. There is no discount for adding multiple products or years however there is a discount for adding extra developer licenses. To add additional items to your subscription is counted as a renewal and then an upgrade. You can do both at the same time by using the [Upgrade an Order](https://purchase.aspose.com/upgrade) interface.  
 
 &nbsp;  
 ##### **Questions?**
-If you have questions about what you get with a subscription, [read our Subscription FAQs](https://purchase.conholdate.com/faqs/subscription/).
+If you have questions about what you get with a subscription, [read our Subscription FAQs](https://purchase.aspose.com/faqs/subscription/).
 
-If you have questions about any aspect of renewing your subscription, from the exact cost through to finding an order ID, [contact our sales department](https://about.conholdate.com/contact/) and they will help you.  
+If you have questions about any aspect of renewing your subscription, from the exact cost through to finding an order ID, [contact our sales department](https://about.aspose.com/contact/) and they will help you.  
 
 {{< end-content >}}

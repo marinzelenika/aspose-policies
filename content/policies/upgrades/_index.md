@@ -1,7 +1,7 @@
 ---
 head_name: "Upgrades"
-page_title: "Upgrades Policies - Purchase - conholdate.com"
-description: "Explanation of what Conholdate considers an upgrade and how to order one to receive a discount."
+page_title: "Upgrades Policies - Purchase - aspose.com"
+description: "Explanation of what Aspose considers an upgrade and how to order one to receive a discount."
 base_url: ""
 ---
 {{< rightPanel >}}
@@ -18,18 +18,19 @@ Although you can upgrade at anytime there is an advantage to upgrading earlier:
 ##### **What is an upgrade?**
 The following situations are upgrades.
 
-1. **Upgrading from a lower pricing plan of a product to a more expensive plan of the same product.** For example, one can upgrade from Conholdate.Total for .NET Developer Small Business license to Conholdate.Total for .NET Developer OEM license. Note that you cannot upgrade from a lower pricing plan of one product to a higher plan of a different product. For example, one cannot upgrade from Conholdate.Total for .NET Developer Small Business license to Conholdate.Total for Java Developer OEM license.
-2. **Upgrading from individual products to Conholdate.Total Product Family.** If you have bought a license for any product then you can upgrade to Conholdate.Total Product Family of the same or a larger license type.  
+1. **Upgrading from a lower pricing plan of a product to a more expensive plan of the same product.** For example, one can upgrade from Aspose.Total for .NET Developer Small Business license to Aspose.Total for .NET Developer OEM license. Note that you cannot upgrade from a lower pricing plan of one product to a higher plan of a different product. For example, one cannot upgrade from Aspose.Total for .NET Developer Small Business license to Aspose.Total for Java Developer OEM license.
+2. **Adding more products to your order.** For example, if you have an order which includes Aspose.Words, then you can add Aspose.Cells to your order. When you perform an upgrade, please choose both products: Aspose.Words and Aspose.Cells. If you want to add more than two products then you can but we suggest you instead upgrade to the Aspose.Total suite as that includes all products for one platform and is the best value for money.
+3. **Upgrading from individual products to Aspose.Total Product Family.** If you have bought a license for any product then you can upgrade to Aspose.Total Product Family of the same or a larger license type.  
 
 To upgrade an existing order
 
 1. Make sure you are signed into the account that the original order was purchased under otherwise it won't show up in your past orders list.
-2. Navigate to [Upgrade an Order](https://purchase.conholdate.com/orders) and select the order to upgrade then follow the steps from there  
+2. Navigate to [Upgrade an Order](https://purchase.aspose.com/orders) and select the order to upgrade then follow the steps from there  
 &nbsp;  
 Upgrade cases can be complicated. If your order is missing from the list or if you cannot upgrade your existing order using the purchase system, then please visit with our friendly sales staff and we will try to sort it out manually.  
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

@@ -1,7 +1,8 @@
-baseURL = 'https://www.conholdate.com/'
+baseURL = 'https://www.aspose.com/'
 languageCode = 'en-us'
-title = 'Policies - Conholdate'
+title = 'Policies - Aspose'
 theme = "policies"
+enableRobotsTXT = true
 
 [module]
 [[module.mounts]]

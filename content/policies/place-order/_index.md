@@ -1,20 +1,20 @@
 ---
 head_name: "Place an Order"
-page_title: "Place an Order - Purchase - conholdate.com"
+page_title: "Place an Order - Purchase - aspose.com"
 description: "List of steps showing how to place an online order."
 base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}}
 ### Getting Started
-1. [Create an account](https://id.dynabic.com/signup?clientId=prod.discourse.conholdate).
+1. [Create an account](https://id.dynabic.com/signup?clientId=prod.discourse.aspose).
 To order a product, you need an account. If you've downloaded a trial or asked a question on our forums you will already have one. If you haven't got one, you need to create one.
 The account helps you keep track of your order history, including invoices and licenses. When you have an account, log in and start your order.
-2. [Log in](https://forum.conholdate.com/session/sso).
+2. [Log in](https://forum.aspose.com/session/sso).
 
 ### Placing an Order
-1. Head to [Buy Now](https://purchase.conholdate.com/buy). Optionally skip to an existing quote or set a discount code.
-All options in the first step are optional. If you have a quote or a coupon code, enter it here, and share how you heard about Conholdate.
+1. Head to [Buy Now](https://purchase.aspose.com/buy). Optionally skip to an existing quote or set a discount code.
+All options in the first step are optional. If you have a quote or a coupon code, enter it here, and share how you heard about Aspose.
 2. Click **Next**.
 3. Select products:
     1. Select the platform your buying a product for.
@@ -41,6 +41,6 @@ Your order has been placed. Once payment is recieved a license file is issued to
 
 {{< questions-start >}}
 ##### Questions?
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

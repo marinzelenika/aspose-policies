@@ -1,6 +1,6 @@
 ---
 head_name: "Transfer License Ownership"
-page_title: "Transfer License Ownership - Purchase - conholdate.com"
+page_title: "Transfer License Ownership - Purchase - aspose.com"
 description: "Request to transfer the ownership of a purchased license within a company or to a different company."
 base_url: ""
 ---
@@ -17,13 +17,13 @@ If an order is to change to a different company, for example when a company that
 ##### **Steps to Change Order Ownership**
 1. Create an account on our website.
 If you already have have one, ignore this step.
-2. Head to and complete the [license transfer form](https://purchase.conholdate.com/)
+2. Head to and complete the [license transfer form](https://purchase.aspose.com/)
 3. We review your request and then change order ownership if you're eligible.
 4. You are notified by email with the outcome of your request 
 If approved, the order is automatically transferred to your new account.  
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

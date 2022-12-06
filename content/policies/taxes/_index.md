@@ -1,24 +1,24 @@
 ---
 head_name: "Taxes"
-page_title: "Taxes - Purchase - conholdate.com"
+page_title: "Taxes - Purchase - aspose.com"
 description: "Explains issues related to tax such as W-9 form, VAT, GST, etc."
 base_url: ""
 ---
 {{< rightPanel >}}
 {{< start-content >}} 
 ##### **Australian Customers: GST**
-Since [Conholdate](https://websites.conholdate.com/) is a division of Aspose Pty Ltd which is an Australian company, we need to collect GST for each order purchased by any Australian customer. The GST inclusive price for all Australian customers is the public retailing price plus 10%. Our purchase system automatically adds 10% to your total when you are at the final steps to check out and GST is present on the tax invoice that is sent to you with an order. We are happy to provide the GST inclusive price for your orders when you [request a quote](/policies/generate-quote) as well.
+Since [Aspose](https://websites.aspose.com/) is a division of Aspose Pty Ltd which is an Australian company, we need to collect GST for each order purchased by any Australian customer. The GST inclusive price for all Australian customers is the public retailing price plus 10%. Our purchase system automatically adds 10% to your total when you are at the final steps to check out and GST is present on the tax invoice that is sent to you with an order. We are happy to provide the GST inclusive price for your orders when you [request a quote](/policies/generate-quote) as well.
 
 Our ABN is 99100069618.  
 
 &nbsp;  
 ##### **European Customers: VAT**
-European customers sometimes asks for our [VAT](https://www.gov.uk/charge-reclaim-record-vat) number. Since [Conholdate](https://websites.conholdate.com/) is a division of Aspose Pty Ltd which is an Australian company, we do not have a VAT number.  
+European customers sometimes asks for our [VAT](https://www.gov.uk/charge-reclaim-record-vat) number. Since [Aspose](https://websites.aspose.com/) is a division of Aspose Pty Ltd which is an Australian company, we do not have a VAT number.  
 
 &nbsp;  
 &nbsp;  
 ##### **United States Customers: Sales Tax**
-Some states have [sales tax or economic nexus laws](https://www.taxjar.com/sales-tax/economic-nexus). Conholdate must charge sales tax in states where we are considered to have an economic nexus.  We charge sales tax in the following states:
+Some states have [sales tax or economic nexus laws](https://www.taxjar.com/sales-tax/economic-nexus). Aspose must charge sales tax in states where we are considered to have an economic nexus.  We charge sales tax in the following states:
 
 - Arizona (AZ) – [exemption info](https://azdor.gov/forms/tpt-forms/tpt-exemption-certificate-general)
 - District of Columbia (DC) – [exemption info](https://otr.cfo.dc.gov/page/exempt-organizations)
@@ -40,20 +40,20 @@ Some states have [sales tax or economic nexus laws](https://www.taxjar.com/sales
 &nbsp;  
 If you’re not certain if your orders should be sales tax exempt, then click the "exemption info" link beside your state for more information.
 
-If your purchases are sales tax exempt, then please [contact us](https://about.conholdate.com/contact/) with your exemption documentation and quote number to avoid being charged US sales tax on current and/or future orders. When possible, Conholdate recommends providing blanket certificates, to cover all orders, that remain in place until revoked in writing or by a tax authority.  
+If your purchases are sales tax exempt, then please [contact us](https://about.aspose.com/contact/) with your exemption documentation and quote number to avoid being charged US sales tax on current and/or future orders. When possible, Aspose recommends providing blanket certificates, to cover all orders, that remain in place until revoked in writing or by a tax authority.  
 
 &nbsp;  
 &nbsp;  
 ##### **United States Customers: W-9 form or W-8BEN form**
-American government agencies and educational organizations request us to fill the [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) or [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). Since [Conholdate](https://websites.conholdate.com/conholdate/com/) is a division of Aspose Pty Ltd which is an Australian company, we do not have Taxpayer Identification Number (TIN) or Employer Identification Number (EIN). Instead Conholdate can supply a [W-8BEN-E form](https://www.irs.gov/forms-pubs/about-form-w-8-ben-e) which is used in place of the W-9 form for foreign entities. To request our W-8BEN-E form please [contact our sales staff](https://about.conholdate.com/contact/).  
+American government agencies and educational organizations request us to fill the [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) or [W-8BEN Form](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). Since [Aspose](https://websites.aspose.com/aspose/com/) is a division of Aspose Pty Ltd which is an Australian company, we do not have Taxpayer Identification Number (TIN) or Employer Identification Number (EIN). Instead Aspose can supply a [W-8BEN-E form](https://www.irs.gov/forms-pubs/about-form-w-8-ben-e) which is used in place of the W-9 form for foreign entities. To request our W-8BEN-E form please [contact our sales staff](https://about.aspose.com/contact/).  
 
 &nbsp;  
 ##### **All Customers: Tax Withholding**
-We do not participate in any withholding tax schemes. Section 4.4 of the [EULA](https://about.conholdate.com/legal/eula/) which states we require payment for our products "net of tax" which means payment must be made in full without any taxes deducted. If you were told that you need to withhold tax when you buy products from Conholdate, please make sure to [contact our sales staff](https://about.conholdate.com/contact/) to discuss before you do that.
+We do not participate in any withholding tax schemes. Section 4.4 of the [EULA](https://about.aspose.com/legal/eula/) which states we require payment for our products "net of tax" which means payment must be made in full without any taxes deducted. If you were told that you need to withhold tax when you buy products from Aspose, please make sure to [contact our sales staff](https://about.aspose.com/contact/) to discuss before you do that.
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}
 

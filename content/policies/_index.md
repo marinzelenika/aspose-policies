@@ -1,6 +1,6 @@
 ---
 head_name: "Purchase Policies and FAQ"
-page_title: "Policies - Purchase - conholdate.com"
+page_title: "Policies - Purchase - aspose.com"
 description: "On this page you will find links to a number of our general policies and practices that answer your questions about how to evaluate, correctly license and purchase our products"
 base_url: ""
 ---
@@ -9,7 +9,7 @@ base_url: ""
 
 On this page you will find links to a number of our general policies and practices that answer your questions about how to evaluate, correctly license and purchase our products.
 
-Conholdate is different from most companies when it comes to how we sell software. We build incredible software that developers can try before buying. To do this, we rely on a slightly different sales model. Here's what makes it different:
+Aspose is different from most companies when it comes to how we sell software. We build incredible software that developers can try before buying. To do this, we rely on a slightly different sales model. Here's what makes it different:
 
 * No pushy sales team.
 * Free 30-day fully functional evaluation install that include free sales and technical support.
@@ -51,29 +51,29 @@ Jump To:
 {{< policies-wrapper >}}
 ##### **Licensing**
 * [License types](/policies/license-types/) - important information about our licenses and which one is right for you.
-* [Metered licenses / Using Conholdate within an SDK or API](/policies/use-within-public-sdk-or-api) - explanation of Conholdate licensing limitations and options when using Conholdate products within a Development Library, SDK or API.
+* [Metered licenses / Using Aspose within an SDK or API](/policies/use-within-public-sdk-or-api) - explanation of Aspose licensing limitations and options when using Aspose products within a Development Library, SDK or API.
 * [Requesting a free evaluation license](/temporary-license) - information about how to get a risk free 30 day temporary license for evaluation purposes. We strongly encourage developers to download and try our products prior to purchasing
 * [Purchasing a production license](/policies/place-order) - the steps to take to purchase a production license
-* [EULA](https://about.conholdate.com/legal/eula/) - view the end user license agreement for our products
+* [EULA](https://about.aspose.com/legal/eula/) - view the end user license agreement for our products
 * [Software escrow](/policies/software-escrow) - protect your investment by placing the source code for the products you have bought in escrow.
 * [Transfer license ownership](/policies/transfer-license-ownership) - request to transfer the ownership of a purchased license within a company or to a different company
 * [Product migration](/policies/product-migration) - what happens to your license if a feature of a product you own is moved to a different product.
-* [Using Your License](/policies/use-license) - instructions for how to use your temporary or permanent Conholdate license  
+* [Using Your License](/policies/use-license) - instructions for how to use your temporary or permanent Aspose license  
 {{< policies-wrapper-end >}}
 
 {{< policies-wrapper >}}
 ##### **Licensing FAQ**
-1. [Are Conholdate licenses per user, or per named user?](/faqs/licensing#1)
+1. [Are Aspose licenses per user, or per named user?](/faqs/licensing#1)
 2. [Do we need licensing for only active developers? For example, we have a team of two developers working on shift A and a second team of two developers working on shift B … in this situation do we need two or four licenses?](/faqs/licensing#2)
 3. [Do we need a separate license for our Build / CI (Continuous Integration) Server?](/faqs/licensing#3)
-4. [I'm a contractor who works with different companies on a project basis. I was licensed for a Conholdate product on my last job. Does that mean that I can use it in my next job?](/faqs/licensing#4)
+4. [I'm a contractor who works with different companies on a project basis. I was licensed for a Aspose product on my last job. Does that mean that I can use it in my next job?](/faqs/licensing#4)
 5. [What's the difference between a license and a subscription?](/faqs/licensing#5)
 6. [What's the difference between a Small Business and an OEM license?](/faqs/licensing#6)
 7. [Where can I find pricing information?](/faqs/licensing#7)
 8. [Can two companies temporarily share a license agreement for a period of time?](/faqs/licensing#8)
-9. [If my company purchases a Conholdate for Java product, can part of the seats be converted to .NET?](/faqs/licensing#9)
+9. [If my company purchases a Aspose for Java product, can part of the seats be converted to .NET?](/faqs/licensing#9)
 10. [What does the term physical location refer to, with regards to licensing?](/faqs/licensing#10)
-11. [We have a sizeable development team, but only one person using Conholdate products. Do all developers need to be licensed or only the one working directly with the Conholdate products?](/faqs/licensing#11)
+11. [We have a sizeable development team, but only one person using Aspose products. Do all developers need to be licensed or only the one working directly with the Aspose products?](/faqs/licensing#11)
 12. [We have several developers working on a single project, but they are working in a distributed model. Can we still use a site license to properly license our team?](/faqs/licensing#12)
 13. [What options do I have do purchase products as a bundle?](/faqs/licensing#13)
 14. [Do you support all the features of a specific file format?](/faqs/licensing#14)
@@ -89,7 +89,7 @@ Jump To:
 ##### **Subscriptions**
 * [Subscriptions](/policies/subscriptions) - general information about subscriptions which give you access to software updates, security fixes and new features.
 * [Renewing a subscription](/policies/subscriptions/renew) - information about how and when to renew a subscription.
-* [Support Options](https://helpdesk.conholdate.com/kb/faq.php?cid=1) - All Conholdate subscriptions come with free lifetime technical support, if you need more then click to head the Paid Support section to read about further support options
+* [Support Options](https://helpdesk.aspose.com/kb/faq.php?cid=1) - All Aspose subscriptions come with free lifetime technical support, if you need more then click to head the Paid Support section to read about further support options
 * [Renew your subscription automatically](/policies/subscriptions/auto-renew) - how to ensure that you always have the latest version of your product.
 * [Feature support](/policies/feature-support) - Learn about our feature support and how our products improve week by week.
 * [Versions](/policies/subscriptions/version) - how to tell what version of a product you have.
@@ -117,7 +117,7 @@ Jump To:
 {{< policies-wrapper >}}
 ##### **Purchase**
 * [Payment methods](/policies/payment-methods) - lists our forms of payment, which currencies we accept and Net 0-day payment terms.
-* [No check policy](/policies/no-checks) - information about why Conholdate no longer accepts checks.
+* [No check policy](/policies/no-checks) - information about why Aspose no longer accepts checks.
 * [Generate a quote](/policies/generate-quote) - list of steps detailing how to generate a pricing quote.
 * [Place an order](/policies/place-order) - list of steps showing how to place an online order.
 * [Purchase paid support](/policies/paid-support) - how to add paid support to your subscription.
@@ -127,25 +127,25 @@ Jump To:
 * [Cancel an order](/policies/cancel-order) - list of steps showing how to cancel an online order.
 * [Download a license](/policies/download-license) - information on how to download your license after purchase.
 * [Use a license](/policies/use-license) - information showing how to use your license file after download.
-* [Pricing disclaimer](/policies/pricing-disclaimer) - Conholdate reserves the right to change pricing but we try to keep all our channels up-to-date.
+* [Pricing disclaimer](/policies/pricing-disclaimer) - Aspose reserves the right to change pricing but we try to keep all our channels up-to-date.
 * [Migrated products](/policies/migrated-products) - Learn which products are were merged into an existing product, or split into a standalone product
 * [Protecting your license](/policies/license-protection) - Information about how to protect your license from being leaked or stolen.
 {{< policies-wrapper-end >}}
 
 {{< policies-wrapper >}}
 ##### **Purchase FAQ**
-1. [Can I evaluate Conholdate products prior to purchasing?](/faqs/purchase#1)
+1. [Can I evaluate Aspose products prior to purchasing?](/faqs/purchase#1)
 2. [Can I receive technical support when I'm evaluating a product?](/faqs/purchase#2)
 3. [How can I request a quote?](/faqs/purchase#3)
 4. [Can I request a quote or invoice in a currency other than US Dollars?](/faqs/purchase#4)
 5. [Can I receive the license early before paying?](/faqs/purchase#5)
 6. [Are there any applicable taxes?](/faqs/purchase#6)
 7. [I require your W-9 Form, can you send it?](/faqs/purchase#7)
-8. [Are Conholdate products FIPS compliant?](/faqs/purchase#8)
+8. [Are Aspose products FIPS compliant?](/faqs/purchase#8)
 9. [I have been advised that we should withhold some of the payment to you for tax purposes, is that acceptable?](/faqs/purchase#9)
 10. [Can I get a discount?](/faqs/purchase#10)
-11. [Does Conholdate have a consultant team who can assist with on-site training, implementation and/or software customizations?](/faqs/purchase#11)
-12. [Does Conholdate do product demonstrations?](/faqs/purchase#12)
+11. [Does Aspose have a consultant team who can assist with on-site training, implementation and/or software customizations?](/faqs/purchase#11)
+12. [Does Aspose do product demonstrations?](/faqs/purchase#12)
 13. [After an order has been placed, how and when can the license key be accessed?](/faqs/purchase#13)
 14. [Where can I download my license?](/faqs/purchase#14)
 15. [Where can I download the product?](/faqs/purchase#15)
@@ -154,17 +154,17 @@ Jump To:
 18. [Which payment methods are accepted?](/faqs/purchase#18)
 19. [Do you include tax in your prices listed on the website or quotes?](/faqs/purchase#19)
 20. [I'm based in Australia, why is GST added to an invoice that is in USD currency?](/faqs/purchase#20)
-21. [Who else uses Conholdate products?](/faqs/purchase#21)
-22. [Are Conholdate products HIPAA compliant?](/faqs/purchase#22)
-23. [Does Conholdate offer software escrow services?](/faqs/purchase#23)
+21. [Who else uses Aspose products?](/faqs/purchase#21)
+22. [Are Aspose products HIPAA compliant?](/faqs/purchase#22)
+23. [Does Aspose offer software escrow services?](/faqs/purchase#23)
 24. [Can you sign an NDA or any other custom agreement?](/faqs/purchase#24)
 25. [Do you have any testimonials or success stories from satisfied customers?](/faqs/purchase#25)
 {{< policies-wrapper-end >}}
 
 {{< policies-wrapper >}}
 ##### **Upgrade, Discounts and Refunds**
-* [Upgrades explained](/policies/upgrades) - explanation of what Conholdate considers an upgrade and how to order one to receive a discount.
-* [Competitive upgrade](/policies/discounts/competitive-upgrade) - how to upgrade from a competitor's product to a Conholdate product.
+* [Upgrades explained](/policies/upgrades) - explanation of what Aspose considers an upgrade and how to order one to receive a discount.
+* [Competitive upgrade](/policies/discounts/competitive-upgrade) - how to upgrade from a competitor's product to a Aspose product.
 * [Discounts](/policies/discounts) - describes how we apply discounts and how you can request one.
 * [Exchanges](/policies/exchanges) - in limited circumstances we will authorize an exchange from one product to another after purchase.
 * [Refunds](/policies/refunds) - we do everything we can to help you make the right decision before you buy to avoid refund requests.
@@ -179,7 +179,7 @@ Jump To:
 5. [Can I downgrade an order for a discount?](/faqs/discount#5)
 6. [Is there a discount for purchasing several products/licenses/subscription years in a single order?](/faqs/discount#6)
 7. [I'm a returning customer, are there any discounts for me?](/faqs/discount#7)
-8. [I am currently using your competitor's product, is there any discount for me to change to Conholdate?](/faqs/discount#8)
+8. [I am currently using your competitor's product, is there any discount for me to change to Aspose?](/faqs/discount#8)
 {{< policies-wrapper-end >}}
 
 {{< policies-wrapper >}}
@@ -187,9 +187,9 @@ Jump To:
 * [Anti fraud measures](/policies/anti-fraud) - we protect ourselves from fraud by contacting the purchaser before releasing a licence if the transaction appears suspcious.
 * [Taxes](/policies/taxes) - explains issues related to tax such as W-9 form, VAT, GST, etc.
 * [Australian customers](/policies/australian-customers) - payment instructions specific for Australian customers including our ABN.
-* [Paperless policy](https://about.conholdate.com/legal/paperless-policy/) - Conholdate acts responsibly where possible to avoid any negative environmental impact.
-* [IBAN number](/policies/iban) - a description of IBAN, why Conholdate does not have one and how to send payment via wire.
-* [Export Regulations](/policies/export-regulations) - Information about the self classification for EAR (Export Administration Regulation) and Australian Export Controls of Conholdate products.
+* [Paperless policy](https://about.aspose.com/legal/paperless-policy/) - Aspose acts responsibly where possible to avoid any negative environmental impact.
+* [IBAN number](/policies/iban) - a description of IBAN, why Aspose does not have one and how to send payment via wire.
+* [Export Regulations](/policies/export-regulations) - Information about the self classification for EAR (Export Administration Regulation) and Australian Export Controls of Aspose products.
 {{< policies-wrapper-end >}}
 
 {{< policies-wrapper >}}

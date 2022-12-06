@@ -1,6 +1,6 @@
 ---
 head_name: "Subscriptions"
-page_title: "Subscriptions - Purchase - conholdate.com"
+page_title: "Subscriptions - Purchase - aspose.com"
 description: "General information about subscriptions which give you access to software updates, security fixes and new features."
 base_url: ""
 ---
@@ -11,7 +11,7 @@ base_url: ""
 
 When you buy a license you get a full year's subscription to software updates. If you do not renew your subscription then after the first 12 months, your software maintenance will expire and you will no longer be able to receive software updates. Renewing your software maintenance is done purely at your discretion and can be renewed any time in advance of your maintenance expiration to ensure uninterrupted access to the support and software updates.
 
-Even when your subscription has expired you are still entitled to free technical support. Please note paid support is not included with a license as it's a separate add on to your subscription.
+Even when your subscription has expired you are still entitled to free technical support. _Please note [paid support](https://helpdesk.aspose.com/) is not included with a license as it's a separate add on to your subscription._
 
 The subscription does not affect your license: once you have bought a license, it is yours forever and you can continue to run the licensed version of the product for as long as it is useful to you. It means however you cannot download and install a new version of the product released after your subscription expiry date, if you do that you will receive an error when trying to license the software. The error will look like this:  
 &nbsp;  
@@ -29,7 +29,7 @@ If you renew prior to the date your subscription expires, the cost is 50% of the
 
 You can purchase additional years at the same time however there are limits to the term you can purchase at one time:
 
-* For Conholdate.Total the maximum subscription period is 2 years
+* For Aspose.Total the maximum subscription period is 2 years
 * For all other products the maximum subscription period is 4 years.  
   
 &nbsp;   
@@ -44,7 +44,7 @@ There is no limit to the number of times you can renew a subscription year after
 
 &nbsp;  
 **Further Details**
-* As well as working on new features and improvements, our developers are on hand to help you with questions you may have in relation to our products. We offer free support to all customers, and also, several advanced support options. [Take a look at our different paid support options](https://helpdesk.conholdate.com/kb/faq.php?cid=1).
+* As well as working on new features and improvements, our developers are on hand to help you with questions you may have in relation to our products. We offer free support to all customers, and also, several advanced support options. [Take a look at our different paid support options](https://helpdesk.aspose.com/kb/faq.php?cid=1).
 * There is no discount for adding additional subscription years to your order.
 * For answers to common questions check out the [Subscription FAQ](/faqs/subscription).  
 
@@ -52,6 +52,6 @@ There is no limit to the number of times you can renew a subscription year after
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

@@ -1,7 +1,7 @@
 ---
 head_name: "Pricing Disclaimer"
-page_title: "Pricing Disclaimer - Purchase - conholdate.com"
-description: "Conholdate reserves the right to change pricing but we try to keep all our channels up-to-date."
+page_title: "Pricing Disclaimer - Purchase - aspose.com"
+description: "Aspose reserves the right to change pricing but we try to keep all our channels up-to-date."
 base_url: ""
 ---
 {{< rightPanel >}}
@@ -13,6 +13,6 @@ We do everything we can to ensure that the prices on our and other companies web
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.conholdate.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

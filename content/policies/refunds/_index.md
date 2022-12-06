@@ -1,6 +1,6 @@
 ---
 head_name: "Refund Policy"
-page_title: "Refund Policy - Purchase - conholdate.com"
+page_title: "Refund Policy - Purchase - aspose.com"
 description: "We do everything we can to help you make the right decision before you buy to avoid refund requests."
 base_url: ""
 ---
@@ -30,9 +30,9 @@ We do not refund:
 
 &nbsp;  
 ##### **Fees**
-If Conholdate decides to issue a refund in any situation, including a return of an accidental double or overpayment, then we will deduct a) a $150 USD processing fee, and b) any fees incurred by Conholdate on the original payment, such as: currency conversion losses and fees assessed by banks and/or payment networks.  If Conholdate decides to issue a credit and you are willing to accept the credit, then no fees will be deducted.
+If Aspose decides to issue a refund in any situation, including a return of an accidental double or overpayment, then we will deduct a) a $150 USD processing fee, and b) any fees incurred by Aspose on the original payment, such as: currency conversion losses and fees assessed by banks and/or payment networks.  If Aspose decides to issue a credit and you are willing to accept the credit, then no fees will be deducted.
 
 &nbsp;  
 ##### **Request a Refund**
-To request a refund, please [email our sales team](https://about.conholdate.com/contact/) with your order number and the reasons for the refund request.  
+To request a refund, please [email our sales team](https://about.aspose.com/contact/) with your order number and the reasons for the refund request.  
 {{< end-content >}}
