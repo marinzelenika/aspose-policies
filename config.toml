@@ -1,4 +1,4 @@
-baseURL = 'https://www.aspose.com/'
+baseURL = 'https://aspose-policies-test.netlify.app/'
 languageCode = 'en-us'
 title = 'Policies - Aspose'
 theme = "policies"
