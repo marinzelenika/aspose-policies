@@ -43,7 +43,7 @@ _\* Installment Plans are only available to customers who buy direct from Aspose
 ** Installment Plans are for new orders only; they cannot be used for renewal orders.  
 *** No other discounts can be used in conjunction with an Installment Plan  
 **** You agree to not dispute credit card charges for mutually agreed upon installment amounts.  
-***** Aspose reserves the right to blacklist any license which is associated with a late or unpaid Installment Plan. 
+***** Aspose reserves the right to blacklist any license which is associated with a late or unpaid Installment Plan.  
 ****** Due to how installment plans are managed, OEM licenses are excluded from installment plans unless approved by special arrangement._
 
 {{< end-content >}}
